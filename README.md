@@ -1,0 +1,2 @@
+# awsSdkTest
+android test 
